@@ -1,6 +1,8 @@
-# cocapp
+# Cards in Flutter
 
 Clash of Clans Characters
+![Screenshot (20)](https://user-images.githubusercontent.com/30715919/87868900-7908b280-c9b8-11ea-8c5b-bb8f406eb385.png)
+
 
 ## Getting Started
 
